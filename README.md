@@ -25,7 +25,7 @@ Também pratico inglês diariamente e uso este GitHub para compartilhar minha ev
             src="https://custom-icon-badges.demolab.com/github/followers/isabellyfranklin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/isabellyfranklin/" target="_blank">
+    <a href="www.linkedin.com/in/isabelly-franklin-6baa56268" target="_blank">
     <img 
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
