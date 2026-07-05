@@ -25,7 +25,7 @@ Tenho foco em front-end  HTML, CSS, JavaScript e React  e estou sempre buscando 
 
 <hr/>
 
-<h3 align="center">🛠️ Tecnologias</h3>
+<h3 align="center"> Tecnologias</h3>
 
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" title="HTML5"/>
@@ -38,23 +38,21 @@ Tenho foco em front-end  HTML, CSS, JavaScript e React  e estou sempre buscando 
 
 <hr/>
 
-<h3 align="center">📁 Projetos em destaque</h3>
+<h3 align="center"> Projetos em destaque</h3>
 
 <div align="center">
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-
 | [Meu Portfolio](https://isabellyfranklin.github.io/Meu-portfolio/) | Meu portfolio de apresentação | Vite · React · Framer Motion |
 | [Loja de Beleza](https://github.com/isabellyfranklin/Loja-de-Beleza) | E-commerce de beleza com slider, menu mobile e layout responsivo | HTML · CSS · JS |
 | [Meus Resumos da Faculdade](https://github.com/isabellyfranklin/projeto-faculdade-materias) | Dashboard de estudos com quizzes, dark mode e navegação por trimestres | HTML · CSS · JS |
-
 
 </div>
 
 <hr/>
 
-<h3 align="center">📊 Estatísticas</h3>
+<h3 align="center"> Estatísticas</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=isabellyfranklin&theme=tokyonight" height="180"/>
