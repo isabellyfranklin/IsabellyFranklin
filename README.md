@@ -44,7 +44,7 @@ Tenho foco em front-end  HTML, CSS, JavaScript e React  e estou sempre buscando 
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Loja de Beleza](https://github.com/isabellyfranklin) | E-commerce de beleza com slider, menu mobile e layout responsivo | HTML · CSS · JS |
+| [Loja de Beleza](https://github.com/isabellyfranklin/Loja-de-Beleza) | E-commerce de beleza com slider, menu mobile e layout responsivo | HTML · CSS · JS |
 | [Meus Resumos da Faculdade](https://github.com/isabellyfranklin) | Dashboard de estudos com quizzes, dark mode e navegação por trimestres | HTML · CSS · JS |
 
 
