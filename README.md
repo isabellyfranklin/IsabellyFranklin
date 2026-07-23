@@ -45,12 +45,12 @@ Tenho foco em front-end  HTML, CSS, JavaScript e React  e estou sempre buscando 
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Meu Portfolio](https://isabellyfranklin.github.io/Meu-portfolio/) | Meu portfolio de apresentação | Vite · React · Framer Motion |
+| [Meu Portfólio](https://isabellyfranklin.github.io/Meu-portfolio/) | Meu portfólio de apresentação | Vite · React · Framer Motion |
 | [Loja de Beleza](https://github.com/isabellyfranklin/Loja-de-Beleza) | E-commerce de beleza com slider, menu mobile e layout responsivo | HTML · CSS · JS |
 | [Meus Resumos da Faculdade](https://github.com/isabellyfranklin/projeto-faculdade-materias) | Dashboard de estudos com quizzes, dark mode e navegação por trimestres | HTML · CSS · JS |
-| [Oraganizador de tarefas com porcentagem](https://github.com/isabellyfranklin/projeto-faculdade-materias)| Organizador de tarefas semanais, que te ajuda a combrir suas tarefas | HTML · CSS · JS |
-| [Calculadora IMC](https://github.com/isabellyfranklin/calculadora-imc) | Calculadora de Imc | HTML · CSS · JS |
-| [Pagina de Login](https://github.com/isabellyfranklin/Login) | Login de pagina simple | HTML · CSS · JS |
+| [Organizador de Tarefas com Porcentagem](https://github.com/isabellyfranklin/To-do-list) | Organizador de tarefas semanais que ajuda a acompanhar o cumprimento das metas | HTML · CSS · JS |
+| [Calculadora IMC](https://github.com/isabellyfranklin/calculadora-imc) | Calculadora de IMC | HTML · CSS · JS |
+| [Página de Login](https://github.com/isabellyfranklin/Login) | Tela de login simples | HTML · CSS · JS |
 
 </div>
 
