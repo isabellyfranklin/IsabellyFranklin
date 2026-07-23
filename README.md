@@ -34,8 +34,9 @@ Tenho foco em front-end  HTML, CSS, JavaScript e React  e estou sempre buscando 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px" title="React"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40px" title="TypeScript (iniciante)"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40px" title="Node.js (iniciante)"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px" title="MySQL (iniciante)"/>
+    <img src="https://img.shields.io/badge/-REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" height="28px" title="REST API"/>
 </p>
-
 <hr/>
 
 <h3 align="center"> Projetos em destaque</h3>
@@ -47,6 +48,9 @@ Tenho foco em front-end  HTML, CSS, JavaScript e React  e estou sempre buscando 
 | [Meu Portfolio](https://isabellyfranklin.github.io/Meu-portfolio/) | Meu portfolio de apresentação | Vite · React · Framer Motion |
 | [Loja de Beleza](https://github.com/isabellyfranklin/Loja-de-Beleza) | E-commerce de beleza com slider, menu mobile e layout responsivo | HTML · CSS · JS |
 | [Meus Resumos da Faculdade](https://github.com/isabellyfranklin/projeto-faculdade-materias) | Dashboard de estudos com quizzes, dark mode e navegação por trimestres | HTML · CSS · JS |
+| [Oraganizador de tarefas com porcentagem](https://github.com/isabellyfranklin/projeto-faculdade-materias)| Organizador de tarefas semanais, que te ajuda a combrir suas tarefas | HTML · CSS · JS |
+| [Calculadora IMC](https://github.com/isabellyfranklin/calculadora-imc) | Calculadora de Imc | HTML · CSS · JS |
+| [Pagina de Login](https://github.com/isabellyfranklin/Login) | Login de pagina simple | HTML · CSS · JS |
 
 </div>
 
