@@ -1,4 +1,6 @@
-<h1 align="center">Isabelly Franklin Silva</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Isabelly+Franklin+Silva;Desenvolvedora+Front-End;" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <strong>Desenvolvedora Front-End</strong> · Estudante de ADS · São Paulo, BR
@@ -57,9 +59,9 @@ Tenho foco em front-end  HTML, CSS, JavaScript e React  e estou sempre buscando 
 <hr/>
 
 <h3 align="center"> Estatísticas</h3>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=isabellyfranklin&theme=tokyonight" height="180"/>
 </p>
+
 
 
