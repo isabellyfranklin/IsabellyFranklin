@@ -42,24 +42,11 @@ Tenho foco em front-end  HTML, CSS, JavaScript e React  e estou sempre buscando 
 </p>
 <hr/>
 
-<h3 align="center"> Projetos em destaque</h3>
-
-<div align="center">
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Meu Portfólio](https://isabellyfranklin.github.io/Meu-portfolio/) | Meu portfólio de apresentação | Vite · React · Framer Motion |
-| [Loja de Beleza](https://github.com/isabellyfranklin/Loja-de-Beleza) | E-commerce de beleza com slider, menu mobile e layout responsivo | HTML · CSS · JS |
-| [Meus Resumos da Faculdade](https://github.com/isabellyfranklin/projeto-faculdade-materias) | Dashboard de estudos com quizzes, dark mode e navegação por trimestres | HTML · CSS · JS |
-| [Organizador de Tarefas com Porcentagem](https://github.com/isabellyfranklin/To-do-list) | Organizador de tarefas semanais que ajuda a acompanhar o cumprimento das metas | HTML · CSS · JS |
-| [Calculadora IMC](https://github.com/isabellyfranklin/calculadora-imc) | Calculadora de IMC | HTML · CSS · JS |
-| [Página de Login](https://github.com/isabellyfranklin/Login) | Tela de login simples | HTML · CSS · JS |
-
-</div>
 
 <hr/>
 
 <h3 align="center"> Estatísticas</h3>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=isabellyfranklin&theme=tokyonight" height="180"/>
 </p>
