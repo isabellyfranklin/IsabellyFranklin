@@ -42,14 +42,13 @@ Tenho foco em front-end  HTML, CSS, JavaScript e React  e estou sempre buscando 
 </p>
 <hr/>
 
-
-<hr/>
-
-<h3 align="center"> Estatísticas</h3>
+<h3 align="center">📊 Estatísticas</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=isabellyfranklin&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=isabellyfranklin&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=isabellyfranklin&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
+<hr/>
 
 
