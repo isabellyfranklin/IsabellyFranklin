@@ -8,7 +8,7 @@
 
 <p align="center">
 Estou no início da minha jornada como desenvolvedora, construindo projetos reais enquanto curso Análise e Desenvolvimento de Sistemas.<br/>
-Tenho foco em front-end  HTML, CSS, JavaScript e React  e estou sempre buscando evoluir na prática, não só na teoria.
+Tenho foco em front-end  HTML, CSS, JavaScript, React, TypeScript e estou sempre buscando evoluir na prática, não só na teoria.
 </p>
 
 <p align="center">
