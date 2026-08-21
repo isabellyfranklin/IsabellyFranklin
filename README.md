@@ -1,5 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Isabelly+Franklin+Silva;Desenvolvedora+Front-End;" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=132&color=FFB6C1&fontAlignY=42&fontColor=FFB6C1&animation=scaleIn&fontAlign=51&textBg=false" width="100%"/>
+
+
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Isabelly+Franklin+Silva;Desenvolvedora+Front-End;" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -8,7 +11,7 @@
 
 <p align="center">
 Estou no início da minha jornada como desenvolvedora, construindo projetos reais enquanto curso Análise e Desenvolvimento de Sistemas.<br/>
-Tenho foco em front-end  HTML, CSS, JavaScript, React, TypeScript e estou sempre buscando evoluir na prática, não só na teoria.
+Tenho foco em front-end  HTML, CSS/SCSS, JavaScript, React, TypeScript e PHP e estou sempre buscando evoluir na prática, não só na teoria.
 </p>
 
 <p align="center">
@@ -28,7 +31,6 @@ Tenho foco em front-end  HTML, CSS, JavaScript, React, TypeScript e estou sempre
 <hr/>
 
 <h3 align="center"> Tecnologias</h3>
-
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" title="HTML5"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px" title="CSS3"/>
@@ -38,17 +40,16 @@ Tenho foco em front-end  HTML, CSS, JavaScript, React, TypeScript e estou sempre
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40px" title="TypeScript (iniciante)"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40px" title="Node.js (iniciante)"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px" title="MySQL (iniciante)"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40px" title="PHP (iniciante)"/>
     <img src="https://img.shields.io/badge/-REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" height="28px" title="REST API"/>
 </p>
 <hr/>
 
 <h3 align="center"> Estatísticas</h3>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isabellyfranklin&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://streak-stats.demolab.com?user=isabellyfranklin&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellyfranklin&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
 </p>
-
 <hr/>
 
 <picture data-importer="pacman">
@@ -58,3 +59,4 @@ Tenho foco em front-end  HTML, CSS, JavaScript, React, TypeScript e estou sempre
 </picture>
 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=132&color=FFB6C1&fontAlignY=42&fontColor=FFB6C1&animation=scaleIn&fontAlign=51&textBg=false&descAlign=62&descAlignY=36&section=footer" width="100%"/>
