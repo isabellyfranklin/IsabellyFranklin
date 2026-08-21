@@ -1,9 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=132&color=FFB6C1&fontAlignY=42&fontColor=FFB6C1&animation=scaleIn&fontAlign=51&textBg=false" width="100%"/>
 
 
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Isabelly+Franklin+Silva;Desenvolvedora+Front-End;" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F8F8FF&center=true&vCenter=true&width=600&lines=Isabelly+Franklin+Silva;Desenvolvedora+Front-End;" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <strong>Desenvolvedora Front-End</strong> · Estudante de ADS · São Paulo, BR
