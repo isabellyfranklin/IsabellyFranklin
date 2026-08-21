@@ -42,7 +42,7 @@ Tenho foco em front-end  HTML, CSS, JavaScript, React, TypeScript e estou sempre
 </p>
 <hr/>
 
-<h3 align="center">📊 Estatísticas</h3>
+<h3 align="center"> Estatísticas</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=isabellyfranklin&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -50,5 +50,11 @@ Tenho foco em front-end  HTML, CSS, JavaScript, React, TypeScript e estou sempre
 </p>
 
 <hr/>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isabellyfranklin/isabellyfranklin/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isabellyfranklin/isabellyfranklin/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/isabellyfranklin/isabellyfranklin/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 
