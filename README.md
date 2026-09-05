@@ -38,11 +38,11 @@ Tenho foco em front-end  HTML, CSS/SCSS, JavaScript, React, TypeScript e PHP e e
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px" title="JavaScript"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40px" title="Sass"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px" title="React"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40px" title="TypeScript (iniciante)"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40px" title="Node.js (iniciante)"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px" title="MySQL (iniciante)"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40px" title="PHP (iniciante)"/>
-    <img src="https://img.shields.io/badge/-REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" height="28px" title="REST API"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40px" title="TypeScript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40px" title="Node.js "/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px" title="MySQL"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40px" title="Figma"/>
+  
 </p>
 <hr/>
 
