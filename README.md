@@ -18,6 +18,10 @@ Foco em front-end, HTML, CSS/SCSS, JavaScript, React, TypeScript e Node, sempre 
 </p>
 
 <p align="center">
+   <a href="https://SEU-LINK-DO-PORTFOLIO-AQUI" target="_blank">
+          <img src="https://img.shields.io/badge/Portfólio-FFB6C1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/>
+   </a>
+ 
   <a href="https://www.linkedin.com/in/isabelly-franklin-6baa56268/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
