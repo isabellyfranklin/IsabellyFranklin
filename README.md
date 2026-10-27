@@ -51,7 +51,7 @@ Foco em front-end, HTML, CSS/SCSS, JavaScript, React, TypeScript e Node, sempre 
     <td width="50%">
       <strong>🎬 App de Filmes</strong><br/>
       React, TypeScript, SCSS, Axios, TMDB API<br/>
-      <a href="https://github.com/isabellyfranklin/App-de-Filmes">Repositório</a>
+      <a href="https://isabellyfranklin.github.io/App-de-Filmes/">Deploy</a> . <a href="https://github.com/isabellyfranklin/App-de-Filmes">Repositório</a>
     </td>
     <td width="50%">
       <strong>🩺 Sistema Médico</strong><br/>
