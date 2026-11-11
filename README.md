@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=132&color=FFB6C1&fontAlignY=42&fontColor=FFB6C1&animation=scaleIn&fontAlign=51&textBg=false" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F8F8FF&center=true&vCenter=true&width=600&lines=Isabelly+Franklin+Silva;Desenvolvedora+Front-End;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F8F8FF&center=true&vCenter=true&width=600&lines=Isabelly+Franklin+Silva;Desenvolvedora+Front-End;Estudando+Back-end+(Node+e+PHP)" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>Desenvolvedora Front-End</strong> · Estudante de ADS · São Paulo, BR
+  <strong>Desenvolvedora Front-End</strong> · Estudando Back-end · Estudante de ADS · São Paulo, BR
 </p>
 
 <p align="center">
@@ -13,8 +13,12 @@
 </p>
 
 <p align="center">
-Estou no início da minha jornada como desenvolvedora, construindo projetos reais enquanto curso Análise e Desenvolvimento de Sistemas.<br/>
-Foco em front-end, HTML, CSS/SCSS, JavaScript, React, TypeScript e Node, sempre buscando evoluir na prática, não só na teoria.
+Desenvolvo interfaces com HTML, CSS/SCSS, JavaScript, React e TypeScript e estou expandindo para o back-end com Node.js e PHP.<br/>
+Curso Análise e Desenvolvimento de Sistemas e gosto de aprender construindo projetos reais, de design no Figma ao deploy.
+</p>
+
+<p align="center">
+  📚 <strong>Atualmente estudando:</strong> Node.js, PHP e MySQL, com foco em criar APIs para os meus projetos front-end.
 </p>
 
 <p align="center">
@@ -49,23 +53,30 @@ Foco em front-end, HTML, CSS/SCSS, JavaScript, React, TypeScript e Node, sempre 
 <table align="center">
   <tr>
     <td width="50%">
+      <strong>🎂 Doce Encanto (Loja de Bolos)</strong><br/>
+      React, TypeScript, Vite, CSS Modules, Figma<br/>
+      <a href="https://isabellyfranklin.github.io/loja-de-bolo/">Deploy</a> · <a href="https://github.com/isabellyfranklin/loja-de-bolo">Repositório</a>
+    </td>
+    <td width="50%">
       <strong>🎬 App de Filmes</strong><br/>
       React, TypeScript, SCSS, Axios, TMDB API<br/>
-      <a href="https://isabellyfranklin.github.io/App-de-Filmes/">Deploy</a> . <a href="https://github.com/isabellyfranklin/App-de-Filmes">Repositório</a>
+      <a href="https://isabellyfranklin.github.io/App-de-Filmes/">Deploy</a> · <a href="https://github.com/isabellyfranklin/App-de-Filmes">Repositório</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <strong>🩺 Sistema Médico</strong><br/>
       HTML, SCSS, TypeScript<br/>
       <a href="https://isabellyfranklin.github.io/Sistema-medico/">Deploy</a> · <a href="https://github.com/isabellyfranklin/Sistema-medico">Repositório</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <strong>💄 Loja de Beleza</strong><br/>
       HTML, CSS, JavaScript (e-commerce)<br/>
       <a href="https://isabellyfranklin.github.io/Loja-de-Beleza/">Deploy</a> · <a href="https://github.com/isabellyfranklin/Loja-de-Beleza">Repositório</a>
     </td>
-    <td width="50%">
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <strong>📚 Meus Resumos da Faculdade</strong><br/>
       HTML, CSS, JavaScript (dark mode, localStorage)<br/>
       <a href="https://isabellyfranklin.github.io/projeto-faculdade-materias/">Deploy</a> · <a href="https://github.com/isabellyfranklin/projeto-faculdade-materias">Repositório</a>
@@ -84,8 +95,9 @@ Foco em front-end, HTML, CSS/SCSS, JavaScript, React, TypeScript e Node, sempre 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px" title="React"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40px" title="TypeScript"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40px" title="Node.js"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px" title="Git"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40px" title="PHP"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px" title="MySQL"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px" title="Git"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40px" title="Figma"/>
 </p>
 
@@ -94,7 +106,6 @@ Foco em front-end, HTML, CSS/SCSS, JavaScript, React, TypeScript e Node, sempre 
 <h3 align="center">📊 Estatísticas</h3>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=isabellyfranklin&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellyfranklin&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
 </p>
 
 <hr/>
