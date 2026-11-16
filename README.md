@@ -58,25 +58,31 @@ Curso Análise e Desenvolvimento de Sistemas e gosto de aprender construindo pro
       <a href="https://isabellyfranklin.github.io/loja-de-bolo/">Deploy</a> · <a href="https://github.com/isabellyfranklin/loja-de-bolo">Repositório</a>
     </td>
     <td width="50%">
+      <strong>🖥️ Tech Store (Em andamento)</strong><br/>
+      React, TypeScript, SCSS, Figma, DummyJSON API<br/>
+      <a href="https://github.com/isabellyfranklin/tech-store">Repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <strong>🎬 App de Filmes</strong><br/>
       React, TypeScript, SCSS, Axios, TMDB API<br/>
       <a href="https://isabellyfranklin.github.io/App-de-Filmes/">Deploy</a> · <a href="https://github.com/isabellyfranklin/App-de-Filmes">Repositório</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <strong>🩺 Sistema Médico</strong><br/>
       HTML, SCSS, TypeScript<br/>
       <a href="https://isabellyfranklin.github.io/Sistema-medico/">Deploy</a> · <a href="https://github.com/isabellyfranklin/Sistema-medico">Repositório</a>
     </td>
-    <td width="50%">
+   
+  </tr>
+  <tr>
+     <td width="50%">
       <strong>💄 Loja de Beleza</strong><br/>
       HTML, CSS, JavaScript (e-commerce)<br/>
       <a href="https://isabellyfranklin.github.io/Loja-de-Beleza/">Deploy</a> · <a href="https://github.com/isabellyfranklin/Loja-de-Beleza">Repositório</a>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
+    <td width="50%">
       <strong>📚 Meus Resumos da Faculdade</strong><br/>
       HTML, CSS, JavaScript (dark mode, localStorage)<br/>
       <a href="https://isabellyfranklin.github.io/projeto-faculdade-materias/">Deploy</a> · <a href="https://github.com/isabellyfranklin/projeto-faculdade-materias">Repositório</a>
