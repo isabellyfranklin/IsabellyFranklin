@@ -55,7 +55,7 @@ Curso Análise e Desenvolvimento de Sistemas e gosto de aprender construindo pro
     <td width="50%">
       <strong>🎂 Doce Encanto (Loja de Bolos)</strong><br/>
       React, TypeScript, Vite, CSS Modules, Figma<br/>
-      <a href="https://isabellyfranklin.github.io/loja-de-bolo/">Deploy</a> · <a href="https://github.com/isabellyfranklin/loja-de-bolo">Repositório</a>
+      <a href="https://isabellyfranklin.github.io/Cake-Shop/">Deploy</a> · <a href="https://github.com/isabellyfranklin/Cake-Shop">Repositório</a>
     </td>
     <td width="50%">
       <strong>🖥️ Tech Store (Em andamento)</strong><br/>
